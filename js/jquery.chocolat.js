@@ -17,7 +17,7 @@
 			linkImages            : true,
 			linksContainer        : 'Choco_links_container',				
 			overlayOpacity        : 0.9,
-			overlayColor          : '#fff',
+			overlayColor          : '#003153',
 			fadeInOverlayduration : 500,
 			fadeInImageduration   : 500,
 			fadeOutImageduration  : 500,
